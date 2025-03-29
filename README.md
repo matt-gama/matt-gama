@@ -1,9 +1,5 @@
 # Matheus Gama
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Backend+Software+Engineer;Cloud+Computing+Enthusiast;System+Architecture+Specialist" alt="Typing SVG" />
-</div>
-
 ## About Me 👨‍💻
 
 Passionate Backend Software Engineer with expertise in building scalable and robust systems. I specialize in developing high-performance applications using modern technologies and best practices in software architecture.
@@ -33,21 +29,8 @@ Passionate Backend Software Engineer with expertise in building scalable and rob
 ## GitHub Analytics ⚡
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matt-gama&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matt-gama&theme=black-ice&hide_border=true&background=DD272700" />
 </div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matt-gama&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-gama&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-
-## Expertise 💡
-
-- **Backend Development**: Microservices Architecture, RESTful APIs, GraphQL
-- **Cloud Computing**: AWS Services, Cloud Architecture, Serverless Computing
-- **System Design**: High-Performance Systems, Distributed Systems, Scalable Architecture
-- **DevOps**: CI/CD Pipelines, Infrastructure as Code, Container Orchestration
 
 ## Let's Connect 🤝
 
